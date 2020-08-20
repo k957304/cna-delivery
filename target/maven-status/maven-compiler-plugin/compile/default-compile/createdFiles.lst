@@ -1,0 +1,14 @@
+shop\Cancellation.class
+shop\CancellationController.class
+shop\CancellationRepository.class
+shop\DeliveryApplication.class
+shop\DeliveryCanceled.class
+shop\DeliveryRepository.class
+shop\PolicyHandler.class
+shop\Ordered.class
+shop\AbstractEvent.class
+shop\Delivery.class
+shop\AbstractEvent$1.class
+shop\DeliveryController.class
+shop\config\kafka\KafkaProcessor.class
+shop\Shipped.class
